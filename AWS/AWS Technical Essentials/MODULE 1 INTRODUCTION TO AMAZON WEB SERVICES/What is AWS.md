@@ -1,4 +1,4 @@
-Cloud computing:
+# Cloud Computing
 
 - On demand delivery of IT resources
 - Pay as you go
