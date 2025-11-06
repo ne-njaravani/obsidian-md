@@ -34,4 +34,11 @@ Each type provides different levels of control, flexibility & management
 
 ## On-premises vs Cloud
 ![[Pasted image 20251106131739.png]]
-- Sce
+- Scenario
+	- developers must deploy a new application feature
+	- Before they deploy, the team wants to test the feature in a separate QA environment that has the same configurations as production
+	- In an on-premises solution, 
+		- an additional environment requires you to buy and install hardware, connect the necessary cabling, provision power, install operating systems, and more...
+			- time consuming and expensive
+			- new feature’s time-to-market increases while the developers wait for the QA environment.
+	- 
