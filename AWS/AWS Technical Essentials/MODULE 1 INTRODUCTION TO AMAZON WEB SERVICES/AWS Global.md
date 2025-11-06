@@ -45,4 +45,11 @@
 
 # Scope of AWS services
 - Depending on the service that you use, your resources are either deployed at the Availability Zone, Region, or Global level
-- Each service is different so you m
+- Each service is different
+	- you MUST understand how the scope of a service might affect your application architecture
+- When you operate a Region-scoped service, 
+	- you only need to select Region you want to use
+- If you are not asked to specify an individual Availability Zone to deploy the service in, 
+	- this is an indicator that the service operates on a Region-scope level. For region scoped services:
+		- AWS automatically performs actions to increase data durability and availability
+- 
