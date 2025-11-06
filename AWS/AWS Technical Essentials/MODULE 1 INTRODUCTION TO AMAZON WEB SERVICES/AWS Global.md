@@ -8,3 +8,7 @@
 - Each AWS Region is associated with a geographical name and a Region code.
 	- e.g. - **us-east-1** is the first Region created in the eastern US area. The geographical name for this Region is N. Virginia.
 
+## Choosing the right region
+- AWS Regions are independent from one another
+- 
+
