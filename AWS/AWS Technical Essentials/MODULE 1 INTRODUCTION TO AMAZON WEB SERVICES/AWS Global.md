@@ -60,4 +60,11 @@
 - best practice for cloud architecture is to use Region-scoped, managed services
 	- These services come with availability and resiliency built in
 		- When that is not possible, make sure your workload is replicated across multiple AZs
+- at a minimum, you should use two AZs
+	- That way, if an Availability Zone fails, your application will have infrastructure up and running in a second Availability Zone to take over the traffic.
+- ![[Pasted image 20251106151716.png]]
+
+
+# Edge locations
+- global locations where content is cached
 - 
