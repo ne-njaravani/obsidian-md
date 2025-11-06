@@ -44,7 +44,7 @@
 	- ![[Pasted image 20251106144340.png]]
 
 # Scope of AWS services
-- Depending on the service that you use, your resources are either deployed at the Availability Zone, Region, or Global level
+- Depending on the service that you use, your resources are either deployed at the AZ, Region, or Global level
 - Each service is different
 	- you MUST understand how the scope of a service might affect your application architecture
 - When you operate a Region-scoped service, 
@@ -59,4 +59,5 @@
 - To keep your app available, you must maintain high availability and resiliency
 - best practice for cloud architecture is to use Region-scoped, managed services
 	- These services come with availability and resiliency built in
-	- 
+		- When that is not possible, make sure your workload is replicated across multiple AZs
+- 
