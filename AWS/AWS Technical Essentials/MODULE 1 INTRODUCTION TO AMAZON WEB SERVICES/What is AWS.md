@@ -41,6 +41,10 @@ Each type provides different levels of control, flexibility & management
 - Increase speed & agility
 	- IT resources are only a click away
 		- reduce the time to make resources available to developers from weeks to minutes
+		- results in a dramatic increase in agility for the organisation
+			- b/c cost and time it takes to experiment and develop is significantly lower
+- Realise cost savings
+	- Instead of managing data centers, companies can use cloud computing to focus on what makes their business unique and better serve their customers.
 
 ## Hybrid
 - Way to connect infrastructure & applications b/w cloud based resources & existing resources that aren't located in the cloud
