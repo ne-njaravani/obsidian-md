@@ -52,4 +52,11 @@
 - If you are not asked to specify an individual Availability Zone to deploy the service in, 
 	- this is an indicator that the service operates on a Region-scope level. For region scoped services:
 		- AWS automatically performs actions to increase data durability and availability
-- 
+- some services ask you to specify an Availability Zone. 
+	- With these you are often responsible for increasing the data durability and high availability of these resources.
+
+# Maintaining resiliency
+- To keep your app available, you must maintain high availability and resiliency
+- best practice for cloud architecture is to use Region-scoped, managed services
+	- These services come with availability and resiliency built in
+	- 
