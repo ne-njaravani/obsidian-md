@@ -13,7 +13,14 @@ Each type provides different levels of control, flexibility & management
 
 ## On Premises
 
-- B4 cloud, Companies hosted & maintained hardware equipment in their own data centres
-- They often allocated infrastructure departments to take care of these
+- B4 cloud, 
+	- Companies hosted & maintained hardware equipment in their own data centres
+	- They often allocated infrastructure departments to take care of these
+	- Resulted in costly operations that made some workloads and experimentation impossible
+- As internet use became more widespread
+	- Demand for compute, storage & networking equipment increased
+	- For some cost of maintaining large physical presence was unsustainable
+		- Enter Cloud Computing
 
-- Costly operations that made some workloads and experimentation impossible
+## Cloud
+- 
