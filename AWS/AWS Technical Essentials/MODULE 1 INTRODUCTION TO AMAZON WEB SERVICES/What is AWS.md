@@ -24,4 +24,8 @@ Each type provides different levels of control, flexibility & management
 
 ## Cloud
 - The on-demand delivery of IT resources over the internet pay-as-you-go (PAYG) pricing.
-- Companies don't have to to manage & maintain their own hardware & a
+- Companies don't have to to manage & maintain their own hardware & data centres
+- Companies like AWS maintain data centres & provide virtual data centre technologies & services to companies & users over the internet
+
+## Hybrid
+- Way to connect infrastructure & applications b/w cloud based resources & existing 
