@@ -41,5 +41,8 @@
 	- Because they are located inside Regions, they can be addressed by appending a letter to the end of the Region code name
 		- e.g. - **us-east-1a** is an Availability Zone in us-east-1 (N. Virginia Region).
 		- Therefore, if you see that a resource exists in us-east-1c, you can infer that the resource is located in Availability Zone c of the us-east-1 Region.
-	- 
+	- ![[Pasted image 20251106144340.png]]
 
+# Scope of AWS services
+- Depending on the service that you use, your resources are either deployed at the Availability Zone, Region, or Global level
+- Each service is different so you m
