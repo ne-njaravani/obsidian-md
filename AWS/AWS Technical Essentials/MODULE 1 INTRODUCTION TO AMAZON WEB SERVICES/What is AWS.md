@@ -27,6 +27,11 @@ Each type provides different levels of control, flexibility & management
 - Companies don't have to to manage & maintain their own hardware & data centres
 - Companies like AWS maintain data centres & provide virtual data centre technologies & services to companies & users over the internet
 
+### Advantages
+- PAYG
+	- based on paying only for the resources that you use
+	- 
+
 ## Hybrid
 - Way to connect infrastructure & applications b/w cloud based resources & existing resources that aren't located in the cloud
 - Most common method of this deployment between the cloud and existing on-premises infrastructure 
@@ -37,8 +42,11 @@ Each type provides different levels of control, flexibility & management
 - Scenario
 	- developers must deploy a new application feature
 	- Before they deploy, the team wants to test the feature in a separate QA environment that has the same configurations as production
-	- In an on-premises solution, 
+	- on-premises 
 		- an additional environment requires you to buy and install hardware, connect the necessary cabling, provision power, install operating systems, and more...
 			- time consuming and expensive
 			- new feature’s time-to-market increases while the developers wait for the QA environment.
-	- 
+	- cloud
+		- replicate an entire production environment in a matter of minutes or even seconds
+		- Instead of physically installing hardware and connecting cabling, the solution is managed over the internet
+- 
