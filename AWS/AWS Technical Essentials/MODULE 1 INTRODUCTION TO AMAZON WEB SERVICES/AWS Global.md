@@ -13,7 +13,12 @@
 - Without explicit customer consent and authorization, data is not replicated from one Region to another
 - Four aspects to consider when deciding which AWS Region to host apps and workloads:
 	- Latency
-		- 
+		- the delay between a request for data and the response
+		- If your app is sensitive to latency
+			- choose a Region that is close to your user base
+				- helps prevent long wait times for your customers.
+		- Synchronous applications such as gaming, telephony, WebSockets, and Internet of Things (IoT) are significantly affected by high latency
+		- Asynchronous workloads, such as ecommerce applications, can also suffer from user connectivity delays
 	- Price
 	- Availability
 	- Compliance
