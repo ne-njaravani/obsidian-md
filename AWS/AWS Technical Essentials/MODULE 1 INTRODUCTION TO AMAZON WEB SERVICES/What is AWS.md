@@ -30,7 +30,17 @@ Each type provides different levels of control, flexibility & management
 ### Advantages
 - PAYG
 	- based on paying only for the resources that you use
-	- 
+- Benefits from massive economies of scale
+	- can achieve a lower cost than you can get on your own
+		- b/c usage from hundreds of thousands of customers is aggregated in the cloud
+	- AWS can achieve higher economies of scale, which translates into lower pay-as-you-go prices
+- Stop guessing capacity
+	- capacity decision before deploying an application
+		- often end up either sitting on expensive idle resources or dealing with limited capacity
+	- can access as much or as little capacity as you need, and scale up and down as required with only a few minutes notice
+- Increase speed & agility
+	- IT resources are only a click away
+		- reduce the time to make resources available to developers from weeks to minutes
 
 ## Hybrid
 - Way to connect infrastructure & applications b/w cloud based resources & existing resources that aren't located in the cloud
