@@ -23,4 +23,5 @@ Each type provides different levels of control, flexibility & management
 		- Enter Cloud Computing
 
 ## Cloud
-- 
+- The on-demand delivery of IT resources over the internet pay-as-you-go (PAYG) pricing.
+- Companies don't have to to manage & maintain their own hardware & a
