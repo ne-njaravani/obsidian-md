@@ -70,4 +70,20 @@
 	- e.g. if your media content is in London and you want to share video files with your customers in Sydney, you could have the videos cached in an edge location closest to Sydney
 		- would make it possible for your customers to access the cached videos more quickly than accessing them from London. 
 	- Currently, there are over 400+ edge locations globally.
-- 
+- Amazon CloudFront delivers your content through a worldwide network of edge locations
+	- When a user requests content that is being served with CloudFront
+		- request is routed to the location that provides the lowest latency
+		- So that content is delivered with the best possible performance
+	- CloudFront speeds up the distribution of your content by routing each user request through the AWS backbone network to the edge location that can best serve your content.
+- ![[Pasted image 20251106152511.png]]
+
+# Resources 
+
+For more information, see the following resources:
+
+- AWS website: [Global Infrastructure(opens in a new tab)](https://aws.amazon.com/about-aws/global-infrastructure/)
+- [(opens in a new tab)](https://infrastructure.aws/)AWS whitepaper: [AWS Global Infrastructure Documentation(opens in a new tab)](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html)
+- AWS website: [AWS Regions and Availability Zones(opens in a new tab)](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
+- AWS reference guide: [AWS Service Endpoints(opens in a new tab)](https://docs.aws.amazon.com/general/latest/gr/rande.html)
+- AWS website: [AWS Regional Services(opens in a new tab)](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+- AWS developer guide: [Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
