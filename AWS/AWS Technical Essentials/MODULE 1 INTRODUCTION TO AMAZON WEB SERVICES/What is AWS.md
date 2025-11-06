@@ -28,4 +28,6 @@ Each type provides different levels of control, flexibility & management
 - Companies like AWS maintain data centres & provide virtual data centre technologies & services to companies & users over the internet
 
 ## Hybrid
-- Way to connect infrastructure & applications b/w cloud based resources & existing 
+- Way to connect infrastructure & applications b/w cloud based resources & existing resources that aren't located in the cloud
+- Most common method of this deployment between the cloud and existing on-premises infrastructure 
+	- connects cloud resources to internal systems to extend and grow an organisation's infrastructure into the cloud.
