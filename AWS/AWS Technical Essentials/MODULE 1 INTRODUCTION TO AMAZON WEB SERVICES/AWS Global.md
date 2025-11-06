@@ -35,4 +35,11 @@
 # Availability Zones
 - Inside every Region is a cluster of Availability Zones (AZs)
 - An AZ consists of one or more data centers with redundant power, networking, and connectivity
+- These data centers operate in discrete facilities in undisclosed locations
+- They are connected using redundant high-speed and low-latency links
+- Also have code names
+	- Because they are located inside Regions, they can be addressed by appending a letter to the end of the Region code name
+		- e.g. - **us-east-1a** is an Availability Zone in us-east-1 (N. Virginia Region).
+		- Therefore, if you see that a resource exists in us-east-1c, you can infer that the resource is located in Availability Zone c of the us-east-1 Region.
+	- 
 
