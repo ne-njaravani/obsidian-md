@@ -10,5 +10,11 @@
 
 ## Choosing the right region
 - AWS Regions are independent from one another
-- 
+- Without explicit customer consent and authorization, data is not replicated from one Region to another
+- Four aspects to consider when deciding which AWS Region to host apps and workloads:
+	- Latency
+		- 
+	- Price
+	- Availability
+	- Compliance
 
