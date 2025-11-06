@@ -13,7 +13,7 @@ Each type provides different levels of control, flexibility & management
 
 ## On Premises
 
-- B4 cloud, 
+- B/4 cloud, 
 	- Companies hosted & maintained hardware equipment in their own data centres
 	- They often allocated infrastructure departments to take care of these
 	- Resulted in costly operations that made some workloads and experimentation impossible
@@ -45,6 +45,9 @@ Each type provides different levels of control, flexibility & management
 			- b/c cost and time it takes to experiment and develop is significantly lower
 - Realise cost savings
 	- Instead of managing data centers, companies can use cloud computing to focus on what makes their business unique and better serve their customers.
+- Go global in minutes
+	- Apps can be deployed in multiple regions around the world w/ a few clicks
+	- can provide lower latency and a better experience for your customers at a minimal cost.
 
 ## Hybrid
 - Way to connect infrastructure & applications b/w cloud based resources & existing resources that aren't located in the cloud
@@ -63,4 +66,10 @@ Each type provides different levels of control, flexibility & management
 	- cloud
 		- replicate an entire production environment in a matter of minutes or even seconds
 		- Instead of physically installing hardware and connecting cabling, the solution is managed over the internet
-- 
+
+
+# Resources
+- AWS website: [What Is Cloud Computing?(opens in a new tab)](https://aws.amazon.com/what-is-cloud-computing/)
+- AWS whitepaper: [Types of Cloud Computing(opens in a new tab)](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/types-of-cloud-computing.html)
+- AWS website: [Cloud Computing with AWS(opens in a new tab)](https://aws.amazon.com/what-is-aws/)
+- AWS whitepaper: [Overview of Amazon Web Services](https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf)
