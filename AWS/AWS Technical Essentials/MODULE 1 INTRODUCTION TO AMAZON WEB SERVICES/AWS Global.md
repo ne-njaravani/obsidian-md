@@ -27,6 +27,12 @@
 			- AWS charges based on the financial factors specific to each Region
 	- Availability
 		- Some services might not be available in some Regions
-			- AWS doc provides 
+			- AWS doc provides table showing services available in each region
 	- Compliance
+		- Enterprise companies often must comply with regulations that require customer data to be stored in a specific geographic territory.
+		- choose a Region that meets your compliance requirements.
+
+# Availability Zones
+- Inside every Region is a cluster of Availability Zones (AZs)
+- An AZ consists of one or more data centers with redundant power, networking, and connectivity
 
